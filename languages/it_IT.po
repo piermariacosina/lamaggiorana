@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: content-corso.php:24
+#@ maggiorana_textdomain
+msgid "Frequency"
+msgstr "Frequenza"
+
+#: content-corso.php:25
+#@ maggiorana_textdomain
+msgid "Duration"
+msgstr "Durata"
+
+#: content-corso.php:26
+#@ maggiorana_textdomain
+msgid "Time"
+msgstr "Orario"
+
+#: content-corso.php:27
+#@ maggiorana_textdomain
+msgid "Days"
+msgstr "Giorni"
+
+#: content-corso.php:28
+#@ maggiorana_textdomain
+msgid "Cost"
+msgstr "Costo"
+
+#: content-evento-passato.php:25
+#@ maggiorana_textdomain
+msgid "Go to Gallery"
+msgstr "Vai alla gallery"
+
+#: content-prossimi-eventi.php:65
+#: content-prossimi-eventi.php:123
+#: content-prossimi-eventi.php:185
+#: content-prossimi-eventi.php:246
+#: content-prossimi-eventi.php:307
+#: content-prossimi-eventi.php:368
+#: content-prossimi-eventi.php:429
+#: content-prossimi-eventi.php:490
+#: content-prossimi-eventi.php:551
+#: content-prossimi-eventi.php:612
+#: content-prossimi-eventi.php:673
+#: content-prossimi-eventi.php:734
+#: single-nextevents.php:33
+#@ maggiorana_textdomain
+msgid "This is the current month, but there is no other events."
+msgstr "Questo è il mese corrente, ma non ci sono altri eventi in programma"
+
+#: footer.php:50
+#: header-gallery.php:50
+#: header.php:62
+#@ maggiorana_textdomain
+msgid "La Maggiorana dal 1973"
+msgstr "La Maggiorana dal 1973"
+
+#: functions.php:59
+#@ maggiorana_textdomain
+msgctxt "post type general name"
+msgid "Lessons"
+msgstr "Lezioni"
+
+#: functions.php:60
+#@ maggiorana_textdomain
+msgctxt "post type singular name"
+msgid "Lesson"
+msgstr "Lezione"
+
+#: functions.php:61
+#@ maggiorana_textdomain
+msgctxt "Lesson item"
+msgid "Add New Lesson"
+msgstr "Aggiungi nuova lezione"
+
+#: functions.php:62
+#@ maggiorana_textdomain
+msgid "Add New Lesson Item"
+msgstr "Aggiungi nuova lezione"
+
+#: functions.php:63
+#@ maggiorana_textdomain
+msgid "Edit Lesson Item"
+msgstr "Modifica lezione"
+
+#: functions.php:64
+#@ maggiorana_textdomain
+msgid "New Lesson Item"
+msgstr "Nuova lezione"
+
+#: functions.php:65
+#@ maggiorana_textdomain
+msgid "View Lesson Item"
+msgstr "Visualizza lezione"
+
+#: functions.php:66
+#@ maggiorana_textdomain
+msgid "Search Lesson"
+msgstr "Cerca lezione"
+
+#: functions.php:67
+#: functions.php:102
+#: functions.php:137
+#: functions.php:172
+#: functions.php:207
+#: functions.php:242
+#@ maggiorana_textdomain
+msgid "Nothing found"
+msgstr "Non è stato niente"
+
+#: functions.php:68
+#: functions.php:103
+#: functions.php:138
+#: functions.php:173
+#: functions.php:208
+#: functions.php:243
+#@ maggiorana_textdomain
+msgid "Nothing found in Trash"
+msgstr "Niente da trovare nel cestino"
+
+#: functions.php:94
+#@ maggiorana_textdomain
+msgctxt "post type general name"
+msgid "Events"
+msgstr "Eventi"
+
+#: functions.php:95
+#@ maggiorana_textdomain
+msgctxt "post type singular name"
+msgid "Event"
+msgstr "Evento"
+
+#: functions.php:96
+#@ maggiorana_textdomain
+msgctxt "Lesson item"
+msgid "Add New Events"
+msgstr "Aggiungi nuovo evento"
+
+#: functions.php:97
+#@ maggiorana_textdomain
+msgid "Add New Events Item"
+msgstr "Aggiungi nuovo evento"
+
+#: functions.php:98
+#@ maggiorana_textdomain
+msgid "Edit Events Item"
+msgstr "Modifica evento"
+
+#: functions.php:99
+#@ maggiorana_textdomain
+msgid "New Events Item"
+msgstr "Nuovo evento"
+
+#: functions.php:100
+#@ maggiorana_textdomain
+msgid "View Events Item"
+msgstr "Visualizza eventi"
+
+#: functions.php:101
+#@ maggiorana_textdomain
+msgid "Search Events"
+msgstr "Cerca eventi"
+
+#: functions.php:129
+#@ maggiorana_textdomain
+msgctxt "post type general name"
+msgid "Courses"
+msgstr "Corso"
+
+#: functions.php:130
+#@ maggiorana_textdomain
+msgctxt "post type singular name"
+msgid "Courses"
+msgstr "Corsi"
+
+#: functions.php:131
+#@ maggiorana_textdomain
+msgctxt "Course item"
+msgid "Add New Course"
+msgstr "Aggiungi nuovo corso"
+
+#: functions.php:132
+#@ maggiorana_textdomain
+msgid "Add New Course Item"
+msgstr "Aggiungi nuovo corso"
+
+#: functions.php:133
+#@ maggiorana_textdomain
+msgid "Edit Course Item"
+msgstr "Modifica corso"
+
+#: functions.php:134
+#@ maggiorana_textdomain
+msgid "New Course Item"
+msgstr "Nuovo corso"
+
+#: functions.php:135
+#@ maggiorana_textdomain
+msgid "View Course Item"
+msgstr "Visualizza corso"
+
+#: functions.php:136
+#@ maggiorana_textdomain
+msgid "Search Course"
+msgstr "Cerca corso"
+
+#: functions.php:164
+#@ maggiorana_textdomain
+msgctxt "post type general name"
+msgid "Services"
+msgstr "Servizi"
+
+#: functions.php:165
+#@ maggiorana_textdomain
+msgctxt "post type singular name"
+msgid "Services"
+msgstr "Servizi"
+
+#: functions.php:166
+#@ maggiorana_textdomain
+msgctxt "Service item"
+msgid "Add New Service"
+msgstr "Aggiungi nuovo servizio"
+
+#: functions.php:167
+#@ maggiorana_textdomain
+msgid "Add New Service Item"
+msgstr "Aggiungi nuova storia"
+
+#: functions.php:168
+#@ maggiorana_textdomain
+msgid "Edit Service Item"
+msgstr "Modifica servizio"
+
+#: functions.php:169
+#@ maggiorana_textdomain
+msgid "New Service Item"
+msgstr "Nuovo servizio"
+
+#: functions.php:170
+#@ maggiorana_textdomain
+msgid "View Service Item"
+msgstr "Visualizza servizio"
+
+#: functions.php:171
+#@ maggiorana_textdomain
+msgid "Search Service"
+msgstr "Cerca servizio"
+
+#: functions.php:199
+#@ maggiorana_textdomain
+msgctxt "post type general name"
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: functions.php:200
+#@ maggiorana_textdomain
+msgctxt "post type singular name"
+msgid "Gallery"
+msgstr "Galleria"
+
+#: functions.php:201
+#@ maggiorana_textdomain
+msgctxt "Gallery item"
+msgid "Add New Gallery"
+msgstr "Aggiungi nuova galleria"
+
+#: functions.php:202
+#@ maggiorana_textdomain
+msgid "Add New Gallery Item"
+msgstr "Aggiungi nuova galleria"
+
+#: functions.php:203
+#@ maggiorana_textdomain
+msgid "Edit Gallery Item"
+msgstr "Modifica galeria"
+
+#: functions.php:204
+#@ maggiorana_textdomain
+msgid "New Gallery Item"
+msgstr "NUova galleira"
+
+#: functions.php:205
+#@ maggiorana_textdomain
+msgid "View Gallery Item"
+msgstr "Visualizza galleria"
+
+#: functions.php:206
+#@ maggiorana_textdomain
+msgid "Search Gallery"
+msgstr "Cerca galleria"
+
+#: functions.php:234
+#@ maggiorana_textdomain
+msgctxt "post type general name"
+msgid "News"
+msgstr "News"
+
+#: functions.php:235
+#@ maggiorana_textdomain
+msgctxt "post type singular name"
+msgid "News"
+msgstr "News"
+
+#: functions.php:236
+#@ maggiorana_textdomain
+msgctxt "Gallery item"
+msgid "Add New News"
+msgstr "Aggiungi nuova news"
+
+#: functions.php:237
+#@ maggiorana_textdomain
+msgid "Add New News Item"
+msgstr "Aggiungi nuova news"
+
+#: functions.php:238
+#@ maggiorana_textdomain
+msgid "Edit News Item"
+msgstr "Modifica news"
+
+#: functions.php:239
+#@ maggiorana_textdomain
+msgid "New News Item"
+msgstr "Nuova news"
+
+#: functions.php:240
+#@ maggiorana_textdomain
+msgid "View News Item"
+msgstr "Visualizza News"
+
+#: functions.php:241
+#@ maggiorana_textdomain
+msgid "Search News"
+msgstr "Cerca news"
+
+#: functions.php:334
+#@ maggiorana_textdomain
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Gallery precedenti <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:335
+#@ maggiorana_textdomain
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Gallery successive"
+
+#: header-gallery.php:52
+#@ maggiorana_textdomain
+msgid "Back to previous page"
+msgstr "Ritorna alla pagina precedente"
+
+#: header.php:35
+#, php-format
+#@ twentyeleven
+msgid "Page %s"
+msgstr ""
+
